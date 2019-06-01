@@ -1,3 +1,5 @@
+/* Disclaimer: These examples and comments from these programs are from
+   C#7 in a Nutshell and are written for learning purposes only. */
 using System;
 /*In this example, we will define a custom type named UnitConverter—
   a class that serves as a blueprint for unit conversions: */
