@@ -1,4 +1,4 @@
-/* Disclaimer: These examples and comments from these programs are from
+/* Disclaimer: The examples and comments from this program are from
    C#7 in a Nutshell and are written for learning purposes only. */
 using System;
 /*In this example, we will define a custom type named UnitConverter—
